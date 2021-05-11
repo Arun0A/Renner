@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="320" height="300" src="https://github.com/Arun0A/Renner/blob/main/Renner.ico?raw=true">
+</p>
+
 # Renner - Multi File Renaming Tool
 
 | Release-Version  | Release-Date  | Source |
