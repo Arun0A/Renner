@@ -1,5 +1,4 @@
-# Renner
- Multi File Renaming Tool
+# Renner - Multi File Renaming Tool
 
 | Release-Version  | Release-Date  | Source |
 | :--------------: |:-------------:|:------:|
