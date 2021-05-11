@@ -7,6 +7,8 @@
 | v0.1 One File    | Released | [Download](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FArun0A%2FRenner%2Ftree%2Fmain%2FOneFile)|
 | v0.1 Source Code | Released | [Download](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FArun0A%2FRenner%2Ftree%2Fmain%2FCode)|
 
+This project was an idea of Arun Bhattacharya. I saw numerous people trying hard to rename files in a sequential manner. I made this project to rename multifile sequentially. It has methods where it renames numerically (01,02,03,...n), alphabetically (a,b,c,...,aa,ab,ac,...,ba,bb,bc,...,[676n]). Ex: It can be applied to multiple screenshot arranging.
+
 ## Installation
 - For One Dir, run the main.py within the directory.
 - For One File, run renner.exe
